@@ -1,0 +1,8 @@
+Order_ID: 111
+Customer ID: 1
+Order Date: 24/12/21 16:56:38
+Delivery Date: 29/12/2021
+Summary: 2 Rice 3 1000
+Total: 6000
+Payment details: 
+
